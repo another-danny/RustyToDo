@@ -1,6 +1,6 @@
 pub struct ToDo {
-	desc: String,
-	status: Status	
+	pub desc: String,
+	pub status: Status	
 }
 
 pub enum Status {

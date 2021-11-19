@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 colored = "2"
+console =  { git = "https://github.com/mitsuhiko/console" }
